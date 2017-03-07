@@ -1,0 +1,17 @@
+commit 65193d1dd9459a10d7fe63b56717f9a9966e7112
+Author: Dima <Dima@gmail.com>
+Date:   Tue Mar 7 18:01:28 2017 +0200
+
+    Added text in test.txt
+
+commit ac97b6fc4ee21d1a2aa50484051be1ef05a5987a
+Author: Dima <Dima@gmail.com>
+Date:   Tue Mar 7 17:57:15 2017 +0200
+
+    Add test.txt and log.txt
+
+commit 10e6fca064daa5f680ce18521ed3e1e5d14cc0fa
+Author: Dima <Dima@gmail.com>
+Date:   Tue Mar 7 17:48:49 2017 +0200
+
+    first commit
